@@ -377,3 +377,10 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+p.demo{
+	text-align: center;
+	font-size: 40px;
+}
+li.film{
+	color: #da671b;
+}
